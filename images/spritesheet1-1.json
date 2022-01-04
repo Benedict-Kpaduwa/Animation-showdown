@@ -1,0 +1,45 @@
+{"frames": {
+
+"bolt@2x.png":
+{
+	"frame": {"x":655,"y":623,"w":300,"h":378},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":378},
+	"sourceSize": {"w":300,"h":378}
+},
+"must_drop.png":
+{
+	"frame": {"x":1,"y":339,"w":954,"h":282},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":954,"h":282},
+	"sourceSize": {"w":954,"h":282}
+},
+"showdown-off.png":
+{
+	"frame": {"x":1,"y":1,"w":802,"h":336},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":802,"h":336},
+	"sourceSize": {"w":802,"h":336}
+},
+"slots@2x.png":
+{
+	"frame": {"x":1,"y":623,"w":652,"h":264},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":652,"h":264},
+	"sourceSize": {"w":652,"h":264}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spritesheet1-1.png",
+	"format": "RGBA8888",
+	"size": {"w":956,"h":1002},
+	"scale": "1",
+	"related_multi_packs": [ "spritesheet1-0.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:4ecc779fff89b38f0781f1dcaa53bc6e:ac6df4702ad117b0516b4bdedbbf6455:43af026737ac452fdbb9d3579f8dc59d$"
+}
+}

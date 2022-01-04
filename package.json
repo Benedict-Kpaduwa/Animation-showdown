@@ -1,0 +1,17 @@
+{
+  "name": "pixijs",
+  "version": "1.0.0",
+  "description": "An wheel animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "live-server"
+  },
+  "author": "Benedict Kpaduwa",
+  "license": "ISC",
+  "dependencies": {
+    "howler": "^2.2.3",
+    "live-server": "^1.2.1",
+    "pixi-timer": "^1.0.1",
+    "pixi.js": "^6.2.1"
+  }
+}
